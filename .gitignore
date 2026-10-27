@@ -1,0 +1,9 @@
+/bin/
+*.exe
+*.test
+*.out
+.cache/
+.env
+.DS_Store
+/data/cache/
+cache/

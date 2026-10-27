@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="SiliconDust">
+  <channel id="309019.1234567890">
+    <display-name>2.1 KREM-HD</display-name>
+  </channel>
+  <channel id="309019.3456789012">
+    <display-name>4.1 KXLY-HD</display-name>
+  </channel>
+  <channel id="309019.2345678901">
+    <display-name>6.1 KHQ-HD</display-name>
+  </channel>
+  <channel id="309019.4567890123">
+    <display-name>28.1 KAYU-HD</display-name>
+  </channel>
+  <channel id="309019.5678901234">
+    <display-name>7.1 KSPS-HD</display-name>
+  </channel>
+  <programme channel="309019.1234567890" start="20260101000000 +0000" stop="20260101010000 +0000">
+    <title lang="en">Evening News</title>
+  </programme>
+  <programme channel="309019.2345678901" start="20260101000000 +0000" stop="20260101010000 +0000">
+    <title lang="en">Local News</title>
+  </programme>
+</tv>
