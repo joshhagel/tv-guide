@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="fixture">
+  <channel id="2.1">
+    <display-name>KREM-HD</display-name>
+  </channel>
+  <channel id="29.1">
+    <display-name>K29NM-D</display-name>
+  </channel>
+  <programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="2.1">
+    <title lang="en">News</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="29.1">
+    <title lang="en">Other</title>
+  </programme>
+</tv>

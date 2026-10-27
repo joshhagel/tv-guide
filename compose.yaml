@@ -1,0 +1,18 @@
+services:
+  tv-guide:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      HDHR_BASE_URL: ${HDHR_BASE_URL:-http://10.0.30.99}
+      PORT: "8080"
+      REFRESH_MIN_HOURS: ${REFRESH_MIN_HOURS:-20}
+      REFRESH_MAX_HOURS: ${REFRESH_MAX_HOURS:-28}
+      FAVORITES_ONLY: ${FAVORITES_ONLY:-false}
+      CACHE_PATH: /data/cache/xmltv.xml
+      HDHR_ACCOUNT_EMAIL: ${HDHR_ACCOUNT_EMAIL:-}
+    volumes:
+      - tv-guide-cache:/data/cache
+
+volumes:
+  tv-guide-cache:

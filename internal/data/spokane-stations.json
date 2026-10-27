@@ -1,0 +1,15 @@
+[
+  {"callsign": "KREM", "name": "KREM 2 Spokane", "guidePrefix": "2", "network": "CBS"},
+  {"callsign": "KHQ", "name": "KHQ Spokane", "guidePrefix": "3", "network": "NBC"},
+  {"callsign": "KXLY", "name": "KXLY 4 Spokane", "guidePrefix": "4", "network": "ABC"},
+  {"callsign": "KHQ", "name": "KHQ Spokane", "guidePrefix": "6", "network": "NBC"},
+  {"callsign": "KSPS", "name": "KSPS 7 Spokane", "guidePrefix": "7", "network": "PBS"},
+  {"callsign": "KWSU", "name": "KWSU 10 Spokane", "guidePrefix": "10", "network": "PBS", "exactOnly": true},
+  {"callsign": "KUID", "name": "KUID 12 Spokane", "guidePrefix": "12", "network": "PBS"},
+  {"callsign": "KQUP", "name": "KQUP 14 Spokane", "guidePrefix": "14", "network": "Daystar"},
+  {"callsign": "KSKN", "name": "KSKN 22 Spokane", "guidePrefix": "22", "network": "CW"},
+  {"callsign": "KCDT", "name": "KCDT 26 Spokane", "guidePrefix": "26", "network": "PBS"},
+  {"callsign": "KAYU", "name": "KAYU 28 Spokane", "guidePrefix": "28", "network": "Fox"},
+  {"callsign": "KDYS", "name": "KDYS 32 Spokane", "guidePrefix": "32", "network": "Ind"},
+  {"callsign": "KGPX", "name": "KGPX 34 Spokane", "guidePrefix": "34", "network": "Ion"}
+]

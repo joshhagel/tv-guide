@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv source-info-url="https://www.hdhomerun.com/" source-info-name="HDHomeRun">
+	<channel id="US32020.hdhomerun.com">
+		<display-name>KQUPLP</display-name>
+		<display-name>14.1 KQUPLP</display-name>
+		<display-name>14.1 KQUP-LD</display-name>
+		<display-name>14.1</display-name>
+		<display-name>KQUP-LD</display-name>
+		<display-name>DYSTR</display-name>
+		<lcn>14.1</lcn>
+		<icon src="https://img.hdhomerun.com/channels/US32020.png" width="360" height="270"/>
+	</channel>
+	<channel id="US35354.hdhomerun.com">
+		<display-name>KREMDT</display-name>
+		<display-name>2.1 KREMDT</display-name>
+		<display-name>2.1 KREM-HD</display-name>
+		<display-name>2.1</display-name>
+		<display-name>KREM-HD</display-name>
+		<display-name>CBS</display-name>
+		<lcn>2.1</lcn>
+		<icon src="https://img.hdhomerun.com/channels/US35354.png" width="360" height="270"/>
+	</channel>
+	<channel id="US70714.hdhomerun.com">
+		<display-name>KREMDT2</display-name>
+		<display-name>2.2 KREMDT2</display-name>
+		<display-name>2.2 CRIME</display-name>
+		<display-name>2.2</display-name>
+		<display-name>CRIME</display-name>
+		<lcn>2.2</lcn>
+		<icon src="https://img.hdhomerun.com/channels/US70714.png" width="360" height="270"/>
+	</channel>
+	<channel id="US90949.hdhomerun.com">
+		<display-name>K29NMD</display-name>
+		<display-name>29.1 K29NMD</display-name>
+		<display-name>29.1 K29NM-D</display-name>
+		<display-name>29.1</display-name>
+		<display-name>K29NM-D</display-name>
+		<display-name>HSN</display-name>
+		<lcn>29.1</lcn>
+		<icon src="https://img.hdhomerun.com/channels/US90949.png" width="360" height="270"/>
+	</channel>
+	<channel id="US17983.hdhomerun.com">
+		<display-name>TELEP</display-name>
+		<display-name>32.1 TELEP</display-name>
+		<display-name>32.1 KDYS-LD</display-name>
+		<display-name>32.1</display-name>
+		<display-name>KDYS-LD</display-name>
+		<display-name>TELE</display-name>
+		<lcn>32.1</lcn>
+		<icon src="https://img.hdhomerun.com/channels/US17983.png" width="360" height="270"/>
+	</channel>
+	<channel id="US62909.hdhomerun.com">
+		<display-name>KXLYDT3</display-name>
+		<display-name>4.3 KXLYDT3</display-name>
+		<display-name>4.3 H&amp;I</display-name>
+		<display-name>4.3</display-name>
+		<display-name>H&amp;I</display-name>
+		<display-name>HEROICN</display-name>
+		<lcn>4.3</lcn>
+		<icon src="https://img.hdhomerun.com/channels/US62909.png" width="360" height="270"/>
+	</channel>
+	<programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="US32020.hdhomerun.com">
+		<title>Kenneth Copeland</title>
+		<desc lang="en">Kenneth and Gloria Copeland talk about how love, faith, prosperity and healing can be found through listening to the Word of God.</desc>
+		<date>1985</date>
+		<category>Series</category>
+		<category>Religious</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C415890ENTV9T.jpg" width="360" height="270"/>
+		<series-id system="cseries">C415890ENTV9T</series-id>
+		<episode-num system="dd_progid">SH00000518.0000</episode-num>
+		<previously-shown/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="US32020.hdhomerun.com">
+		<title>Healing Time With Dr. Doug Weiss</title>
+		<sub-title>Ann White</sub-title>
+		<desc lang="en">Pastors, group leaders and church members are equipped with biblical truths and tools to heal themselves and bring healing to a wounded world.</desc>
+		<date>20261026</date>
+		<category>Series</category>
+		<category>Religious</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C22593456EN6L23.jpg" width="360" height="270"/>
+		<series-id system="cseries">C22593456EN6L23</series-id>
+		<episode-num system="dd_progid">EP04388486.0183</episode-num>
+		<episode-num system="onscreen">S2026E63</episode-num>
+		<episode-num system="xmltv_ns">2025.62.</episode-num>
+		<previously-shown/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027043000 +0000" stop="20261027050000 +0000" channel="US32020.hdhomerun.com">
+		<title>Joni Table Talk</title>
+		<sub-title>Friends from the Table: Shocking the Darkness Pt 1</sub-title>
+		<desc lang="en">Philip Renner shares eye-opening testimonies from the darkest corners of the world and reveals how you can access God's power through bold obedience and prayer.</desc>
+		<date>20261027</date>
+		<category>Series</category>
+		<category>Religious</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C9870137EN9RJK.jpg" width="360" height="270"/>
+		<series-id system="cseries">C9870137EN9RJK</series-id>
+		<episode-num system="dd_progid">EP01715599.1507</episode-num>
+		<episode-num system="onscreen">S2026E83</episode-num>
+		<episode-num system="xmltv_ns">2025.82.</episode-num>
+		<previously-shown/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027030000 +0000" stop="20261027040100 +0000" channel="US35354.hdhomerun.com">
+		<title>FBI</title>
+		<sub-title>Reticence</sub-title>
+		<desc lang="en">The team investigates a missing infant and a string of murders as it all connects to a rocket propulsion company on the verge of going public.</desc>
+		<date>20261026</date>
+		<category>Series</category>
+		<category>Action</category>
+		<category>Crime drama</category>
+		<category>Thriller</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C15528073ENFX28.jpg" width="360" height="270"/>
+		<series-id system="cseries">C15528073ENFX28</series-id>
+		<episode-num system="dd_progid">EP02971514.0235</episode-num>
+		<episode-num system="onscreen">S09E04</episode-num>
+		<episode-num system="xmltv_ns">8.3.</episode-num>
+		<new/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027040100 +0000" stop="20261027050000 +0000" channel="US35354.hdhomerun.com">
+		<title>CIA</title>
+		<sub-title>Black Tie Optional</sub-title>
+		<desc lang="en">When a prominent investor begins selling highly sensitive information to Korean agents, the team must go deep undercover at a high-end gala event to prevent a deadly invasion; Bill struggles with troubling discoveries of his father's past.</desc>
+		<date>20261026</date>
+		<category>Series</category>
+		<category>Crime drama</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C30177490EN5ZPD.jpg" width="360" height="270"/>
+		<series-id system="cseries">C30177490EN5ZPD</series-id>
+		<episode-num system="dd_progid">EP05784548.0019</episode-num>
+		<episode-num system="onscreen">S02E04</episode-num>
+		<episode-num system="xmltv_ns">1.3.</episode-num>
+		<new/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261028030000 +0000" stop="20261028040000 +0000" channel="US35354.hdhomerun.com">
+		<title>NCIS</title>
+		<sub-title>Like and Subscribe</sub-title>
+		<desc lang="en">When a sailor moonlighting as a contestant on an online game show turns up murdered, the team discovers his death has nothing to do with the show's prize money; Tony faces a threat far more intimidating than any killer.</desc>
+		<date>20261027</date>
+		<category>Series</category>
+		<category>Action</category>
+		<category>Adventure</category>
+		<category>Crime drama</category>
+		<category>Mystery</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C184930ENXE70.jpg" width="360" height="270"/>
+		<series-id system="cseries">C184930ENXE70</series-id>
+		<episode-num system="dd_progid">EP00681911.0589</episode-num>
+		<episode-num system="onscreen">S24E04</episode-num>
+		<episode-num system="xmltv_ns">23.3.</episode-num>
+		<new/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="US70714.hdhomerun.com">
+		<title>The FBI Files</title>
+		<sub-title>Shattered Shield</sub-title>
+		<desc lang="en">Lured by the easy wealth of the narcotics industry, some crooked cops in the Big Easy break the laws they were sworn to uphold.</desc>
+		<date>19991214</date>
+		<category>Series</category>
+		<category>Crime</category>
+		<category>Documentary</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C505353ENSB1X.jpg" width="360" height="270"/>
+		<series-id system="cseries">C505353ENSB1X</series-id>
+		<episode-num system="dd_progid">EP00277360.0021</episode-num>
+		<episode-num system="onscreen">S02E08</episode-num>
+		<episode-num system="xmltv_ns">1.7.</episode-num>
+		<previously-shown/>
+	</programme>
+	<programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="US70714.hdhomerun.com">
+		<title>Obsession: Dark Desires</title>
+		<sub-title>The Olympic Creep</sub-title>
+		<desc lang="en">When Olympic gold medalist Sheila Taormina agrees to coach an athlete, she doesn't realize he harbors dark fantasies that will turn her life into a living nightmare.</desc>
+		<date>20170313</date>
+		<category>Series</category>
+		<category>Crime</category>
+		<category>Documentary</category>
+		<category>Mystery</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C10180619EN1Y7P.jpg" width="360" height="270"/>
+		<series-id system="cseries">C10180619EN1Y7P</series-id>
+		<episode-num system="dd_progid">EP01789751.0041</episode-num>
+		<episode-num system="onscreen">S04E03</episode-num>
+		<episode-num system="xmltv_ns">3.2.</episode-num>
+		<previously-shown/>
+	</programme>
+	<programme start="20261027080000 +0000" stop="20261027090000 +0000" channel="US70714.hdhomerun.com">
+		<title>The New Detectives</title>
+		<sub-title>In the Line of Fire</sub-title>
+		<desc lang="en">A sniper is brought to justice through ballistic tests; a bloody hand print leads to a suspect in a double homicide; a semen sample is tied to gunman.</desc>
+		<date>20001107</date>
+		<category>Series</category>
+		<category>Crime</category>
+		<category>Documentary</category>
+		<category>Medical</category>
+		<category>Reality</category>
+		<category>Science</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C186614ENTHT6.jpg" width="360" height="270"/>
+		<series-id system="cseries">C186614ENTHT6</series-id>
+		<episode-num system="dd_progid">EP00218511.0059</episode-num>
+		<episode-num system="onscreen">S06E03</episode-num>
+		<episode-num system="xmltv_ns">5.2.</episode-num>
+		<previously-shown/>
+	</programme>
+	<programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="US90949.hdhomerun.com">
+		<title>Coin Collector</title>
+		<desc lang="en">Limited edition, graded coins for collectors of all ages.</desc>
+		<date>20120302</date>
+		<category>Shop</category>
+		<category>Shopping</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C9067768ENG8GI.jpg" width="360" height="270"/>
+		<series-id system="cseries">C9067768ENG8GI</series-id>
+		<episode-num system="dd_progid">SH01527851.0000</episode-num>
+		<live/>
+		<new/>
+	</programme>
+	<programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="US90949.hdhomerun.com">
+		<title>TRU Hair by Chelsea Scott</title>
+		<date>20120722</date>
+		<category>Series</category>
+		<category>Fashion</category>
+		<category>Health</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C9358127ENS8RC.jpg" width="360" height="270"/>
+		<series-id system="cseries">C9358127ENS8RC</series-id>
+		<episode-num system="dd_progid">SH01590525.0000</episode-num>
+		<live/>
+		<new/>
+	</programme>
+	<programme start="20261027060000 +0000" stop="20261027070000 +0000" channel="US90949.hdhomerun.com">
+		<title>Great Gifts</title>
+		<desc lang="en">A variety of great gifts with something for everyone on your holiday list.</desc>
+		<date>19971126</date>
+		<category>Shop</category>
+		<category>Consumer</category>
+		<category>Holiday</category>
+		<category>Shopping</category>
+		<category>Special</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C396182ENZ85D.jpg" width="360" height="270"/>
+		<series-id system="cseries">C396182ENZ85D</series-id>
+		<episode-num system="dd_progid">SH00239357.0000</episode-num>
+		<previously-shown/>
+	</programme>
+	<programme start="20261027020000 +0000" stop="20261027040000 +0000" channel="US17983.hdhomerun.com">
+		<title>Juego de villanos</title>
+		<desc lang="es">Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de los Villanos&quot; y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.</desc>
+		<date>20261026</date>
+		<category>Series</category>
+		<category>Competition reality</category>
+		<language>es</language>
+		<icon src="https://img.hdhomerun.com/titles/C33914243ESMMA8.jpg" width="360" height="270"/>
+		<series-id system="cseries">C33914243ESMMA8</series-id>
+		<episode-num system="dd_progid">EP06579058.0005</episode-num>
+		<episode-num system="onscreen">S01E05</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<new/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="US17983.hdhomerun.com">
+		<title>El señor de los cielos</title>
+		<sub-title>Cuenta pendiente</sub-title>
+		<desc lang="es">Uzcátegui confronta a Aurelio por la muerte de Claire y le advierte sobre la pena capital. Él responde con amenazas y prepara un plan contra la fiscal Huerta y su jefe, Francisco Moreno.</desc>
+		<date>20261026</date>
+		<category>Series</category>
+		<category>Adventure</category>
+		<category>Crime drama</category>
+		<category>Soap</category>
+		<language>es</language>
+		<icon src="https://img.hdhomerun.com/titles/C9891050ES0BP9.jpg" width="360" height="270"/>
+		<series-id system="cseries">C9891050ES0BP9</series-id>
+		<episode-num system="dd_progid">EP01719179.2769</episode-num>
+		<episode-num system="onscreen">S10E78</episode-num>
+		<episode-num system="xmltv_ns">9.77.</episode-num>
+		<new/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027073000 +0000" stop="20261027083000 +0000" channel="US17983.hdhomerun.com">
+		<title>Eres mi luz</title>
+		<sub-title>Una operación fallida</sub-title>
+		<desc lang="es">Con una arriesgada trampa, Poyraz y Haziran buscan pruebas contra Nihad, el esposo de Hanifa. Cuando creen que ellos están a salvo, nuevos contratiempos interrumpen un momento romántico.</desc>
+		<date>20261026</date>
+		<category>Series</category>
+		<category>Comedy</category>
+		<category>Drama</category>
+		<category>Romance</category>
+		<category>Soap</category>
+		<language>es</language>
+		<icon src="https://img.hdhomerun.com/titles/C33408374ESV950.jpg" width="360" height="270"/>
+		<series-id system="cseries">C33408374ESV950</series-id>
+		<episode-num system="dd_progid">EP06489051.0068</episode-num>
+		<episode-num system="onscreen">S01E68</episode-num>
+		<episode-num system="xmltv_ns">0.67.</episode-num>
+		<new/>
+		<video>
+			<quality>HDTV</quality>
+		</video>
+	</programme>
+	<programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="US62909.hdhomerun.com">
+		<title>Star Trek</title>
+		<sub-title>Errand of Mercy</sub-title>
+		<desc lang="en">Kirk cannot comprehend the apathy of the peaceful residents of Organia in the face of Klingon atrocities.</desc>
+		<date>19670316</date>
+		<category>Series</category>
+		<category>Adventure</category>
+		<category>Fantasy</category>
+		<category>Science fiction</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C183885EN1GPX.jpg" width="360" height="270"/>
+		<series-id system="cseries">C183885EN1GPX</series-id>
+		<episode-num system="dd_progid">EP00003985.0020</episode-num>
+		<episode-num system="onscreen">S01E26</episode-num>
+		<episode-num system="xmltv_ns">0.25.</episode-num>
+		<previously-shown/>
+	</programme>
+	<programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="US62909.hdhomerun.com">
+		<title>Star Trek: The Next Generation</title>
+		<sub-title>The Pegasus</sub-title>
+		<desc lang="en">Riker's first commanding officer, now an admiral, swears Will to secrecy when they and Picard embark on a mission to locate a missing starship.</desc>
+		<date>19940110</date>
+		<category>Series</category>
+		<category>Adventure</category>
+		<category>Drama</category>
+		<category>Fantasy</category>
+		<category>Science fiction</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C183887ENRIUG.jpg" width="360" height="270"/>
+		<series-id system="cseries">C183887ENRIUG</series-id>
+		<episode-num system="dd_progid">EP00003986.0170</episode-num>
+		<episode-num system="onscreen">S07E12</episode-num>
+		<episode-num system="xmltv_ns">6.11.</episode-num>
+		<previously-shown/>
+	</programme>
+	<programme start="20261027070000 +0000" stop="20261027080000 +0000" channel="US62909.hdhomerun.com">
+		<title>Star Trek: Enterprise</title>
+		<sub-title>The Expanse</sub-title>
+		<desc lang="en">Capt. Archer and the crew embark on a mission to the far reaches of the galaxy to stop a culprit species from destroying Earth.</desc>
+		<date>20030521</date>
+		<category>Series</category>
+		<category>Adventure</category>
+		<category>Drama</category>
+		<category>Fantasy</category>
+		<category>Science fiction</category>
+		<language>en</language>
+		<icon src="https://img.hdhomerun.com/titles/C184749ENXSAY.jpg" width="360" height="270"/>
+		<series-id system="cseries">C184749ENXSAY</series-id>
+		<episode-num system="dd_progid">EP00446583.0053</episode-num>
+		<episode-num system="onscreen">S02E26</episode-num>
+		<episode-num system="xmltv_ns">1.25.</episode-num>
+		<previously-shown/>
+	</programme>
+</tv>
