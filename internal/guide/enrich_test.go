@@ -27,6 +27,15 @@ func TestEnrichXMLTVSpokaneOverlay(t *testing.T) {
 	if !strings.Contains(s, "US35354.hdhomerun.com") {
 		t.Fatalf("expected HDHomeRun channel id preserved")
 	}
+	// Remarshal must keep programme bodies — Jellyfin shows "undefined" without <title>.
+	for _, title := range []string{"FBI", "CIA", "Star Trek", "Kenneth Copeland"} {
+		if !strings.Contains(s, "<title>"+title+"</title>") {
+			t.Fatalf("expected programme title %q preserved after enrich", title)
+		}
+	}
+	if !strings.Contains(s, "<sub-title>Reticence</sub-title>") {
+		t.Fatalf("expected programme sub-title preserved after enrich")
+	}
 }
 
 func TestEnrichXMLTVFavoritesOnly(t *testing.T) {

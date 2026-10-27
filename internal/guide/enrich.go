@@ -32,9 +32,10 @@ type enrichIcon struct {
 }
 
 type enrichProgramme struct {
-	Start   string `xml:"start,attr"`
-	Stop    string `xml:"stop,attr"`
-	Channel string `xml:"channel,attr"`
+	Start    string `xml:"start,attr"`
+	Stop     string `xml:"stop,attr"`
+	Channel  string `xml:"channel,attr"`
+	InnerXML string `xml:",innerxml"` // title, desc, icon, etc. — must survive remmarshal
 }
 
 func EnrichChannel(ch enrichChannel, st data.OverlayStation, guideNumber string) enrichChannel {
